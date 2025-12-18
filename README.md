@@ -1,4 +1,4 @@
-# Angels-Hotels-Smart-Hotel-Management-System
+# 🏨 Angel's Hotels Smart Hotel Management System
 A web-based Smart Hotel Management System built as a group project to optimize hotel operations through intelligent booking, room management, billing, staff management and administration.
 
 ## 🚀 Key Features
@@ -24,3 +24,7 @@ A web-based Smart Hotel Management System built as a group project to optimize h
 - **Backend:** PHP (Native)
 - **Database:** MySQL (Relational Schema)
 - **Tools:** XAMPP (Apache Server), VS Code, Github
+
+## ⚙️ Installation & Setup Guide
+
+**Refer this document👉**https://docs.google.com/document/d/1Osr7eY9qnh3fvr6_F-w62mRz8bJSyLoe/edit?usp=sharing&ouid=110985065261348501637&rtpof=true&sd=true
